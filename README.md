@@ -32,7 +32,7 @@ This guide is a collection of documents, requirements, laws and processes needed
 3. Purchase [OHRV Sticker](https://www.wildlife.nh.gov/highway-recreational-vehicles-ohrv-and-snowmobiles/registering-your-ohrv-or-snowmobile).
 4. Take all documents to your town hall to register your dirt bike.
     - They most likely will not know how to handle this transaction, so be patient. Let them know that you did the research on-line and this is what you came up with. 
-    - Two points of contact that could help as they understand the process are Gabrielle ([603-227-4030](603-227-4030)) from the Concord Registrations department and Chrissy ([603-227-4150](603-227-4150)) from the Concord Title department.
+    - Two points of contact that could help as they understand the process are Gabrielle ([tel:603-227-4030](603-227-4030)) from the Concord Registrations department and Chrissy ([tel:603-227-4150](603-227-4150)) from the Concord Title department.
 
 _Note: Biggest takeaway from this, don’t get frustrated. Treat everyone you talk to with respect._
 
