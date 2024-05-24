@@ -5,7 +5,6 @@ This guide is a collection of documents, requirements, laws and processes needed
 ## Required Documents
 - [TDMV 114](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/tdmv114.pdf)
 - [TDMV 19A](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/tdmv19a.pdf)
-- [OHRV Sticker](https://www.wildlife.nh.gov/highway-recreational-vehicles-ohrv-and-snowmobiles/registering-your-ohrv-or-snowmobile)
 - Certificate of Origin
 - Bill of Sale
 
@@ -29,8 +28,7 @@ This guide is a collection of documents, requirements, laws and processes needed
 ## Process
 1. Fill out [TDMV 114](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/tdmv114.pdf) and have mechanic sign the form.
 2. Fill out [TDMV 19A](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/tdmv19a.pdf), have a police officer to verify VIN and sign the form.
-3. Purchase [OHRV Sticker](https://www.wildlife.nh.gov/highway-recreational-vehicles-ohrv-and-snowmobiles/registering-your-ohrv-or-snowmobile).
-4. Take all documents to your town hall to register your dirt bike.
+3. Take all documents to your town hall to register your dirt bike.
     - They most likely will not know how to handle this transaction, so be patient. Let them know that you did the research on-line and this is what you came up with. 
     - Two points of contact that could help as they understand the process are Gabrielle ([603-227-4030](tel:603-227-4030)) from the Concord Registrations department and Chrissy ([603-227-4150](tel:603-227-4150)) from the Concord Title department.
 
